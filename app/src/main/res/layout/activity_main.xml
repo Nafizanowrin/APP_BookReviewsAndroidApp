@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:gravity="center_horizontal"
     android:padding="16dp"
-    android:background="@color/background">
+    android:background="@color/form">
 `
     <TextView
         android:id="@+id/welcomeText"
